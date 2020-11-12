@@ -1,5 +1,5 @@
 {
-  "name": "8bitov/clickhouse-php-client",
+  "name": "rezon73/clickhouse-php-client",
   "license": "MIT",
   "version" : "0.0.4",
   "keywords":    ["clickhouse", "driver", "client", "http"],
