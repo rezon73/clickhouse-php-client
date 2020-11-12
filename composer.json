@@ -1,7 +1,7 @@
 {
   "name": "8bitov/clickhouse-php-client",
   "license": "MIT",
-  "version" : "0.0.3",
+  "version" : "0.0.4",
   "keywords":    ["clickhouse", "driver", "client", "http"],
   "homepage":    "https://github.com/8bitov/doctrine2-clickhouse",
   "authors": [
@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": ">=5.5.0",
-    "guzzlehttp/guzzle": "~6.0"
+    "guzzlehttp/guzzle": "^7.2"
   },
   "require-dev": {
     "phpunit/phpunit": "~5.4.6",
