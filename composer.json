@@ -1,7 +1,7 @@
 {
   "name": "rezon73/clickhouse-php-client",
   "license": "MIT",
-  "version" : "0.0.4",
+  "version" : "0.0.6",
   "keywords":    ["clickhouse", "driver", "client", "http"],
   "homepage":    "https://github.com/8bitov/doctrine2-clickhouse",
   "authors": [
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=5.5.0",
+    "php": ">=7.4.0",
     "guzzlehttp/guzzle": "^7.2"
   },
   "require-dev": {
