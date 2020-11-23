@@ -1,7 +1,6 @@
 {
   "name": "rezon73/clickhouse-php-client",
   "license": "MIT",
-  "version" : "0.0.6",
   "keywords":    ["clickhouse", "driver", "client", "http"],
   "homepage":    "https://github.com/8bitov/doctrine2-clickhouse",
   "authors": [
