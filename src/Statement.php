@@ -98,6 +98,8 @@ class Statement
             }
         }
 
+        $this->data = (array) $this->data;
+
         return $this;
 
     }
